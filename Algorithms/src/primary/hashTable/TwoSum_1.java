@@ -10,7 +10,7 @@ import java.util.TreeMap;
  */
 public class TwoSum_1 {
 
-    public int[] twoSum(int[] nums, int target) {
+    public static int[] twoSum(int[] nums, int target) {
         int[] res = new int[2];
         if (nums == null || nums.length < 2) return res;
         Map<Integer,Integer> map = new HashMap<>();
