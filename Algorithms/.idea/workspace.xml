@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4952fca0-c9c7-4290-874f-269d0f266fd6" name="Changes" comment="0705 update-2">
-      <change afterPath="$PROJECT_DIR$/src/primary/hashTable/CanConstruct_383.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primary/hashTable/ThreeSum_15.java" afterDir="false" />
+    <list default="true" id="4952fca0-c9c7-4290-874f-269d0f266fd6" name="Changes" comment="0708 update-1">
+      <change afterPath="$PROJECT_DIR$/src/primary/hashTable/FourSum_18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primary/hashTable/FourSumCount_454.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primary/hashTable/FourSumCount_454.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primary/hashTable/TwoSum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primary/hashTable/TwoSum_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/primary/hashTable/ThreeSum_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/primary/hashTable/ThreeSum_15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,7 @@
       <workItem from="1688259133625" duration="52878000" />
       <workItem from="1688473759201" duration="8551000" />
       <workItem from="1688644952305" duration="3000" />
-      <workItem from="1688818380828" duration="1505000" />
+      <workItem from="1688818380828" duration="6019000" />
     </task>
     <task id="LOCAL-00001" summary="0701 update">
       <created>1688201544674</created>
@@ -96,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688487126705</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="0708 update-1">
+      <created>1688823196938</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688823196938</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +122,7 @@
     <MESSAGE value="0701 update" />
     <MESSAGE value="0702 update-1" />
     <MESSAGE value="0705 update-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="0705 update-1" />
+    <MESSAGE value="0708 update-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="0708 update-1" />
   </component>
 </project>
