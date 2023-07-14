@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4952fca0-c9c7-4290-874f-269d0f266fd6" name="Changes" comment="0708 update-1">
-      <change afterPath="$PROJECT_DIR$/src/primary/string/ReverseStringV2_541.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primary/string/ReverseString_344.java" afterDir="false" />
+    <list default="true" id="4952fca0-c9c7-4290-874f-269d0f266fd6" name="Changes" comment="0709 update-1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +55,7 @@
       <workItem from="1688259133625" duration="52878000" />
       <workItem from="1688473759201" duration="8551000" />
       <workItem from="1688644952305" duration="3000" />
-      <workItem from="1688818380828" duration="10146000" />
+      <workItem from="1688818380828" duration="10757000" />
     </task>
     <task id="LOCAL-00001" summary="0701 update">
       <created>1688201544674</created>
@@ -108,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688879358851</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="0709 update-1">
+      <created>1689003434396</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689003434396</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +135,7 @@
     <MESSAGE value="0702 update-1" />
     <MESSAGE value="0705 update-1" />
     <MESSAGE value="0708 update-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="0708 update-1" />
+    <MESSAGE value="0709 update-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="0709 update-1" />
   </component>
 </project>
